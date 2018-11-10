@@ -6,7 +6,7 @@ categories: networking
 ---
 On my lazy weekends, I sometimes play on-line games with my college buddies and one of my favorites is Rainbow Six:Siege. Recently my IPS changed their upstream provider and for whatever reason, it turns out that Rainbow Six's in-game VoIP server got blocked, meaning, I can't hear others and they can't hear me. Ugh!
 Filed a complain about it, they said they will look into it... and that was two weeks ago, still nothing. 
-So, it looks like I have to take matters in my own hand and come up with a solution!
+So, it looks like I have to take matters into my own hand and come up with a solution!
 
 The obvious solution is to use VPN services. There are a lot, like A LOOOOOT of VPN services out there but most of the good ones are blocked behind pay walls. I don't blame them, its a business after all. In my hunt for a good & free VPN, I stumbled across ProtonVPN (not sponsored btw). They provide free VPN service with unlimited bandwidth. The only downside is that there are only a handful of free servers and the speed is pretty low. However, its enough for video games... or so I thought..
 
