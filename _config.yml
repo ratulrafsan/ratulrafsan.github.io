@@ -10,7 +10,7 @@ title: Ratul's Log
 email: ratulrafsan@gmail.com
 description: A dumping ground for my thoughts
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://ratulrafsan.github.com" # the base hostname & protocol for your site
+url: "http://ratulrafsan.github.io" # the base hostname & protocol for your site
 github_username:  ratulrafsan
 paginate: 5
 theme-dark: false #Set to true to change to dark website theme
